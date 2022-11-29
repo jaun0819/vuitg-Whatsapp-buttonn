@@ -1,8 +1,7 @@
 <h1 align="center"> Whatsapp-button-
 falabella </h1>
  
- ![Boton de whatsapp de fallabela](../../../vtex/vtex-u-store-theme/assets/img/logo-whatsapp.png)
-
+![Boton de whatsapp de fallabela(../../../vtex/vtex-u-store-theme/assets/img/ana.png)
  INDICE
  -Título e imagen de portada
  <br>
